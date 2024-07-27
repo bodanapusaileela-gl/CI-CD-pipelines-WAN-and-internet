@@ -7,6 +7,6 @@ public class UserInfo {
 
         System.out.println("User Name: " + name);
         System.out.println("Job Title: " + job);
-        System.out.println("Package Number: " + packageNumber);
-    }
-}
+        System.out.println("Package Number: " + packageNumber);   
+    } // Closing brace for main method
+} // Closing brace for UserInfo class
